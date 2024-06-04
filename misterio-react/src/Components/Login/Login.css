@@ -1,0 +1,109 @@
+.container {
+width: 400px;
+border: 1px solid rgb(190, 190, 190);
+padding: 40px;
+border-radius: 10px;
+};
+
+.container h1{
+    font-size: 40px;
+    color: black;
+}
+
+.container h2 {
+    font-size: 15px;
+    margin: 20px 0 0;
+}
+
+.container h3 {
+    font-size: 15px;
+    margin: 20px 0 0;
+}
+
+.container2 h1 {
+    text-align: center;
+    font-size: 12px;
+    color: rgb(128, 128, 128);
+    margin: 0 0 20px;
+    
+}
+
+.container .username {
+    position: relative;
+    width: 100%;
+    height: 35px;
+    margin: auto;
+}
+
+.username input {
+    width: 100%;
+    height: 100%;
+    padding: 10px 10px;
+}
+
+.container .password {
+    position: relative;
+    width: 100%;
+    height: 35px;
+    margin: 0 0 20px auto;
+}
+
+.password input {
+    width: 100%;
+    height: 100%;
+    padding: 10px 10px;
+    
+}
+
+.container button {
+    width: 100%;
+    height: 35px;
+    background-color: rgb(252, 220, 39);
+    outline: none;
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.container .ajuda {
+    text-align: left;
+    font-size: 15px;
+    margin: 20px 0 10px;
+
+}
+
+.container2 button {
+    width: 100%;
+    height: 35px;
+    background-color: white;
+    outline: none;
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 10px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.container2 {
+    width: 400px;
+    border: none;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.Logo {
+    width: 300px;
+    height: auto;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
+.amazonLogo {
+    width: 300px;
+    height: auto;
+    justify-content: center;
+    margin: 25px;
+
+}
+
+
